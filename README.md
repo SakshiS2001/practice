@@ -1,2 +1,2 @@
 # practice repository
-Author -Sakshi Sawant
+Author - Sakshi Santosh Sawant
